@@ -3,4 +3,4 @@
 	url = git://github.com/MaximeGernet/Sniffer.git
 [submodule "SmartBike"]
 	path = SmartBike
-	url = https://github.com/MaximeGernet/SmartBike.git
+	url = git://github.com/MaximeGernet/SmartBike.git
