@@ -1,6 +1,3 @@
 [submodule "Sniffer"]
 	path = Sniffer
 	url = git://github.com/MaximeGernet/Sniffer.git
-[submodule "SmartBike"]
-	path = SmartBike
-	url = git://github.com/MaximeGernet/SmartBike.git
